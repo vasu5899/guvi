@@ -1,7 +1,7 @@
-a=int(input(""))
-if (a<0):
+vasu=int(input(""))
+if (vasu<0):
     print("Negative")
-elif (a>0):
-    print("Positive ")
+elif (vasu>0):
+    print("Positive")
 else :
-    print("Zero ")
+    print("Zero")
